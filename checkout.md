@@ -8,3 +8,4 @@ command git checkout -b <имя-ветки>
 ```
 git checkout <имя-ветки>
 ```
+[< на главную](./readme.md)

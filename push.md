@@ -6,3 +6,4 @@
 ```
 git push origin master
 ```
+[< на главную](./readme.md)

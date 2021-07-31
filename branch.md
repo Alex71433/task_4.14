@@ -9,3 +9,4 @@ git branch
 ```
 git branch –d <имя-ветки>
 ```
+[< на главную](./readme.md)

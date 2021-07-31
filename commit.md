@@ -12,3 +12,4 @@
 ```
 git commit -m «init»
 ```
+[< на главную](./readme.md)

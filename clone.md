@@ -8,3 +8,4 @@
 ```
 git clone https://github.com/avsudnichnikov/example
 ```
+[< на главную](./readme.md)

@@ -9,3 +9,4 @@ git remote –v
 ```
 git remote add origin <адрес.удаленного.сервера>
 ```
+[< на главную](./readme.md)
